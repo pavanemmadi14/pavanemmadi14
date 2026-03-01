@@ -26,11 +26,12 @@
 📫 Reach me at **pavanemmadi5@gmail.com**!
 
 ---
-## 🚀 **Tech Stack:**
+## **Tech Stack:**
 
 ## 🧠 Core Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
